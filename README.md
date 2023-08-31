@@ -1,3 +1,3 @@
 # Frontend-Starbucks
 
-###fastcampus clone coding
+fastcampus clone coding
