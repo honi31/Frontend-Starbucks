@@ -4,4 +4,4 @@
 ## STARBUCKS
 스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
 
-[DEMO](http://127.0.0.1:5500/index.html) <br/>
+[DEMO](https://flamboyant-lumiere-482a1e.netlify.app/) <br/>
